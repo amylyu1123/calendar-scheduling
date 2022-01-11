@@ -1,4 +1,4 @@
-+ Introduction
+# Introduction
 
 This is a Calendar and Scheduling app that is used to create, edit and store schedules. Each schedule is based on a
 template and each schedule can have multiple events added to it. Users can interact with the app through
@@ -8,7 +8,7 @@ We have three types of schedule templates: Monthly Template, Weekly Template and
 We also have three corresponding types of schedules: Monthly Schedule, Weekly Schedule and Daily Schedule
 We have five different types of users including: Regular User, Public User, Private User, Trial User, Admin User
 
-+ Instructions
+# Instructions
 
 We have three initial templates with different types (Monthly, Weekly and Daily) and we can create monthly schedules,
 weekly schedules and daily schedules according to the templates.
@@ -118,7 +118,7 @@ chat history.
 
 We can exit this app through the welcome menu or main menu.
 
-+ Files outside of the program
+# Files outside of the program
 Note: The following files do not exist at the first time running our program.
 But they will be created as long as we run the program.
 
